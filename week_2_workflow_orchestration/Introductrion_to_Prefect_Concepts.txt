@@ -1,0 +1,6 @@
+- What is Prerfect: là một hệ thống quản lý quy trình làm việc được thiết kế để sắp xếp và tự động hóa các data pipeline. Nó được dùng để xây dựng, lập kế hoạch, quản lý các dữ liệu quy trình làm việc phức tạp một cách đáng tin cậy.
+- Installing Prefect: 
+	+ Create virtual environment : python -m venv 
+	+ Activating it
+	+ Installing all the libraries we need
+- Orion UI: command line "prefect orion start"

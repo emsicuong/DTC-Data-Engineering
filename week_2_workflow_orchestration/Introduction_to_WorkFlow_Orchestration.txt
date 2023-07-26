@@ -1,0 +1,3 @@
+- Workflow Orchestration (sắp xếp quy trình làm việc): sắp xếp các dữ liệu theo các quy tắc và logic trong business.
+- Comparing Workflow orchestrators vs other types of orchestrators: Workflow Orchestrators that focuses on coordinating(phối hợp) or managing the execution of workflow or business processes.
+- Core features of a workflow orchestration tool: that enable the management and automation of complex workflows
